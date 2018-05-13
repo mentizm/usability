@@ -52,9 +52,8 @@ Es gibt Mittel wie:
 
 *zu den aber später mehr*
 
-<br>
-<br>
+----
 
 > Wenn ich die Menschen gefragt hätte, was sie wollen, hätten sie gesagt schnellere Pferde.
+> <br>// Henry Ford (Gründer der Ford Motor Company)
 
-  Henry Ford (Gründer der Ford Motor Company)
