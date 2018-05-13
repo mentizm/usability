@@ -133,7 +133,76 @@ Internetnutzung:<br>
 
 ---
 
-
 ## Das mobile Zeitalter und die Auswirkung auf interaktive Konzepte ##
 
 <img src="images/phone-tablet-desktop.jpg" alt="phone-tablet-desktop" style=""/>
+
+---
+
+## Das mobile Zeitalter und die Auswirkung auf interaktive Konzepte ##
+
+- Responsive Design
+  - Website muss auf verschieden Größen den Content optimal wieder geben
+  - Meist: Desktop > Tablet > Phone
+- Mobile First
+  - Design für Mobile-Site erstellen, dann auf andere Gerätegrößen erweitern
+  - Phone > Tablet > Desktop
+- *Context First* Beispiel Bild vorher
+  - Der Nutzungskontext wird berücksichtigt
+- Touch und Gesten
+  - Es wird nicht mit der Maus geklickt
+  - Bsp: Kein Hover auf Mobile Devices
+  
+---
+
+## Nutzerzentrierte Entwicklung ##
+Den Nutzer in die Produktentwicklung einbinden
+
+> Es geht nicht darum, was der Nutzer will, sondern viel mehr, wie es ihm hilft seine Probleme zu lösen
+
+Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das Produkt überhaupt entwickeln.
+
+---
+
+## Der optimale Projektablauf ##
+
+<table>
+<tr>
+<td>Phase</td>
+<td>Schritte/Aktionen</td>
+<td>Ausgewählte Methoden</td>
+</tr>
+<tr>
+<td>Nutzungskontext verstehen und beschreiben</td>
+<td></td>
+<td>
+- Fokusgruppen
+- Personas
+</td>
+</tr>
+<tr>
+<td>Nutzungsanforderungen</td>
+<td></td>
+<td>
+- Card Sorting
+- Scribbles
+- Wireframes
+</td>
+</tr>
+<tr>
+<td>Gestaltungslösungen entwickeln, die die Nutzungsanforderungen rfüllen (Design, Umsetzung)</td>
+<td></td>
+<td>
+- Papierprototypen
+- Mockups und Prototypen
+</td>
+</tr>
+<tr>
+<td>Gestaltungslösung aus Nutzerperspektive evaluieren (Testing)</td>
+<td></td>
+<td>
+- Usability-Tests
+- A/B Tests
+</td>
+</tr>
+</table>
