@@ -18,17 +18,17 @@ img {
 .reveal {
   font-size: 30px;
 }
-/* line 27, ../../scss/PITCHME.scss */
+/* line 26, ../../scss/PITCHME.scss */
 .reveal .next {
   font-size: 80%;
 }
 
-/* line 32, ../../scss/PITCHME.scss */
+/* line 31, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 39, ../../scss/PITCHME.scss */
+/* line 38, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
