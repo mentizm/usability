@@ -7,7 +7,8 @@ font-size: 70%;
 # Usability #
 ## User Experience (UX) ##
 
-![Logo](images/test.jpg)
+
+<img src="images/test.jpg" alt="image" style="width: 200px;"/>
 
 ---
 
