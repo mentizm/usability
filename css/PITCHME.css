@@ -19,15 +19,17 @@
 }
 /* line 28, ../../scss/PITCHME.scss */
 .reveal .next {
+  padding-top: 20px;
   font-size: 80%;
+  color: #6a0000;
 }
 
-/* line 33, ../../scss/PITCHME.scss */
+/* line 35, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 40, ../../scss/PITCHME.scss */
+/* line 42, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
