@@ -12,22 +12,22 @@
 .reveal {
   font-size: 30px;
 }
-/* line 24, ../../scss/PITCHME.scss */
+/* line 23, ../../scss/PITCHME.scss */
 .reveal img {
   max-width: 90%;
   max-height: 320px;
 }
-/* line 29, ../../scss/PITCHME.scss */
+/* line 28, ../../scss/PITCHME.scss */
 .reveal .next {
   font-size: 80%;
 }
 
-/* line 34, ../../scss/PITCHME.scss */
+/* line 33, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 41, ../../scss/PITCHME.scss */
+/* line 40, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
