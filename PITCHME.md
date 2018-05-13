@@ -7,6 +7,8 @@ font-size: 70%;
 # Usability #
 ## User Experience (UX) ##
 
+![Logo](images/test.jpg)
+
 ---
 
 ### Warum Usability & UX? ###
