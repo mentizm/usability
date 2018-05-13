@@ -212,6 +212,17 @@ Berücksichtgen wir das alles, dann sollte agil an dem Produkt entwickelt werden
 
 ---
 
+## Fragen / Feedback ##
+
+Gerne auch negativ.
+<br>
+Es soll ja besser werden.
+<br>
+<br>
+Vielen Dank
+
+---
+
 ## Quelle ##
 
 Das kann man alles in diesem Buch nachlesen.
