@@ -40,5 +40,21 @@ font-size: 70%;
 
 <img src="images/erkenntnisse.jpg" alt="erkenntnisse" style=""/>
 
-  
-  
+<div class="next">Können wir nicht einfach den Nutzer fragen, was er will?</div>
+
+---
+
+## Nutzer fragen: Jain! ##
+
+Es gibt Mittel wie:
+- Fokusgruppen
+- Usability-Test
+
+*zu den aber später mehr*
+
+<br>
+<br>
+
+> Wenn ich die Menschen gefragt hätte, was sie wollen, hätten sie gesagt schnellere Pferde.
+
+  Henry Ford (Gründer der Ford Motor Company)
