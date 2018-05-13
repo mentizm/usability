@@ -14,23 +14,22 @@ img {
   background: #4f8080;
 }
 
-/* line 21, ../../scss/PITCHME.scss */
-.next {
-  text-align: right;
-  font-size: 18px;
-}
-
-/* line 27, ../../scss/PITCHME.scss */
+/* line 24, ../../scss/PITCHME.scss */
 .reveal {
   font-size: 30px;
 }
+/* line 27, ../../scss/PITCHME.scss */
+.reveal .next {
+  text-align: right;
+  font-size: 80%;
+}
 
-/* line 31, ../../scss/PITCHME.scss */
+/* line 33, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 38, ../../scss/PITCHME.scss */
+/* line 40, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
