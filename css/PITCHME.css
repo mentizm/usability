@@ -1,34 +1,33 @@
-/* line 8, ../../scss/PITCHME.scss */
-img {
-  max-width: 90%;
-  max-height: 320px;
-}
-
-/* line 13, ../../scss/PITCHME.scss */
+/* line 10, ../../scss/PITCHME.scss */
 .ux {
   background: #225454;
 }
 
-/* line 17, ../../scss/PITCHME.scss */
+/* line 14, ../../scss/PITCHME.scss */
 .usability {
   background: #4f8080;
 }
 
-/* line 24, ../../scss/PITCHME.scss */
+/* line 21, ../../scss/PITCHME.scss */
 .reveal {
   font-size: 30px;
 }
-/* line 26, ../../scss/PITCHME.scss */
+/* line 24, ../../scss/PITCHME.scss */
+.reveal img {
+  max-width: 90%;
+  max-height: 320px;
+}
+/* line 29, ../../scss/PITCHME.scss */
 .reveal .next {
   font-size: 80%;
 }
 
-/* line 31, ../../scss/PITCHME.scss */
+/* line 34, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 38, ../../scss/PITCHME.scss */
+/* line 41, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
