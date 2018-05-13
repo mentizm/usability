@@ -1,3 +1,9 @@
+<style>
+section{
+font-size: 70%;
+}
+</style>
+
 # Usability #
 ## User Experience (UX) ##
 
@@ -7,12 +13,13 @@
 
 Usability ist ein Teilgebiet der UX.
 
-<div style="display: flex;">
+<section>
+<div style="display: flex; justify-content: space-around; font-size: 70%;">
 <div>vor der Nutzung</div>
 <div>Nutzung</div>
 <div>nach der Nutzung</div>
 </div>
-
+</section>
 
 ---
 
