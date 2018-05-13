@@ -18,4 +18,14 @@ font-size: 70%;
 
 ---
 
-##  ##
+## ISO 9241 ##
+
+- **User Experience**
+  - **Nutzungserlebnis** oder **Nutzungserfahrung**
+  - ISO 9241-210: UX umfasst demnach *alle Aspekte der **Erfahrungen** eines Nutzer **bei der Interaktion mit einem Produkt**, **Dienst**, einer **Umgebung** oder **Einrichtung***
+<br>
+<br>
+<br>
+- **Usability**
+    - **Gebrauchstauglichkeit** oder **(Be-)Nutzerfreundlichkeit**
+    - ISO 9241-11: Usability bezeichnet *das Ausmaß, in dem ein Produkt, System oder Dienst durch bestimmte Benutzer in einem **bestimmten Anwendungskontext** genutzt werden kann, um **bestimmte Ziele** effektiv, effizient und zufriedenstellend zu erreichen.*
