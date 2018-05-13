@@ -88,7 +88,7 @@ Diese Punkte sollte nach <a href="https://www.nngroup.com/people/jakob-nielsen/"
 gilt als Grundlagen jeder guten Gestaltung.
 
 ### Kurzzeitgedächtnis nicht überfordern ###
-- Millersches Gesetzt - 7 +/- 2
+- Millersches Gesetzt: **7 +/- 2**
   - Beispiel: Menüpunkte
 - Hycksches Gesetz
   - Je mehr Auswahl, desto länger dauert eine Entscheidung
@@ -123,8 +123,7 @@ gilt als Grundlagen jeder guten Gestaltung.
 ## Das mobile Zeitalter und die Auswirkung auf interaktive Konzepte ##
 
 Internetnutzung:<br>
-``
-Okt 2016: Desktop 48,7% <> Mobile 51,3%
-<br>
-(Quelle: StatCounter Global Sats)
-`` 
+
+> Okt 2016: <br>
+> Desktop 48,7% <> Mobile 51,3% <br>
+> (Quelle: StatCounter Global Sats)
