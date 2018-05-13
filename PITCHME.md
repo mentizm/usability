@@ -1,9 +1,3 @@
-<style>
-section{
-font-size: 70%;
-}
-</style>
-
 # Usability #
 ## User Experience (UX) ##
 
