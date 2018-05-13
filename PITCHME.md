@@ -14,6 +14,15 @@ font-size: 70%;
 
 <img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style=""/>
 
+
+---
+## Customer Lifecycle ##
+Das ganze als geschlossenen Kreislauf.
+<br>
+Kunde verlässt uns - Kunde kommt wieder.
+
+<img src="images/clc.jpg" alt="clc" style=""/>
+
 <div class="next">Was genau ist denn UX und Usability</div>
 
 ---
