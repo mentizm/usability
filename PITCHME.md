@@ -35,7 +35,7 @@ font-size: 70%;
     
 ---
 
-## Erkenntnisse + menschliche Psychologie ##
+## Erkenntnisse aus Studien, Forschung und Projekten ##
 
 
 <img src="images/erkenntnisse.jpg" alt="erkenntnisse" style=""/>
