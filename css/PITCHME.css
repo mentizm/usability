@@ -24,12 +24,12 @@
   color: #6a0000;
 }
 
-/* line 35, ../../scss/PITCHME.scss */
+/* line 36, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 42, ../../scss/PITCHME.scss */
+/* line 43, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;
