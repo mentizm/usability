@@ -13,13 +13,12 @@ font-size: 70%;
 
 Usability ist ein Teilgebiet der UX.
 
-<section>
-<div style="display: flex; justify-content: space-around; font-size: 70%;">
+<div></div>
+<div class="flex-full">
 <div>vor der Nutzung</div>
 <div>Nutzung</div>
 <div>nach der Nutzung</div>
 </div>
-</section>
 
 ---
 
