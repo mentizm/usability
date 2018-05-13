@@ -12,7 +12,7 @@ font-size: 70%;
 ## Usability ## 
 ### Ein Teilgebiet der UX ###
 
-<img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style="max-width: 1000px;"/>
+<img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style=""/>
 
 <div class="next">Was genau ist denn UX und Usability</div>
 
@@ -29,3 +29,16 @@ font-size: 70%;
 - **Usability**
     - **Gebrauchstauglichkeit** oder **(Be-)Nutzerfreundlichkeit**
     - ISO 9241-11: Usability bezeichnet &raquo;*das Ausmaß, in dem ein Produkt, System oder Dienst durch bestimmte Benutzer in einem **bestimmten Anwendungskontext** genutzt werden kann, um **bestimmte Ziele** effektiv, effizient und zufriedenstellend zu erreichen.*&laquo;
+
+
+<div class="next">Woher kommen die ISO-Normen</div>
+    
+---
+
+## Erkenntnisse + menschliche Psychologie ##
+
+
+<img src="images/erkenntnisse.jpg" alt="erkenntnisse" style=""/>
+
+  
+  
