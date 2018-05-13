@@ -127,3 +127,13 @@ Internetnutzung:<br>
 > Okt 2016: <br>
 > Desktop 48,7% <> Mobile 51,3% <br>
 > (Quelle: StatCounter Global Sats)
+
+
+<div class="next">Mehrere Plattformen > Umdenken</div>
+
+---
+
+
+## Das mobile Zeitalter und die Auswirkung auf interaktive Konzepte ##
+
+<img src="images/phone-tablet-desktop.jpg" alt="phone-tablet-desktop" style=""/>
