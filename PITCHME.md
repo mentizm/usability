@@ -8,7 +8,6 @@ font-size: 70%;
 ## User Experience (UX) ##
 
 
-<img src="images/test.jpg" alt="image" style="width: 200px;"/>
 
 ---
 
@@ -16,18 +15,8 @@ font-size: 70%;
 
 Usability ist ein Teilgebiet der UX.
 
-<div class="full ux">
-<p>UX</p>
-<div class="flex-full">
-<div>vor der Nutzung</div>
-<div>
-Nutzung
-<br>
-<div class="usability">Usability</div>
-</div>
-<div>nach der Nutzung</div>
-</div>
-</div>
+
+<img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style="max-width: 1000px;"/>
 
 ---
 
