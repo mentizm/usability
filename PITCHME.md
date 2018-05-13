@@ -28,7 +28,7 @@ font-size: 70%;
     - **Gebrauchstauglichkeit** oder **(Be-)Nutzerfreundlichkeit**
     - ISO 9241-11: Usability bezeichnet &raquo;*das Ausmaß, in dem ein Produkt, System oder Dienst durch bestimmte Benutzer in einem **bestimmten Anwendungskontext** genutzt werden kann, um **bestimmte Ziele** effektiv, effizient und zufriedenstellend zu erreichen.*&laquo;
 ----
-<div class="next">Woher kommen die ISO-Normen</div>
+<div class="next">Woher kommen die ISO-Normen?</div>
     
 ---
 
@@ -47,10 +47,84 @@ Es gibt Mittel wie:
 - Fokusgruppen
 - Usability-Test
 
-*zu den aber später mehr*
+*Dazu später mehr*
 
 ----
 
 > Wenn ich die Menschen gefragt hätte, was sie wollen, hätten sie gesagt schnellere Pferde.
 > <br>// Henry Ford (Gründer der Ford Motor Company)
 
+---
+
+## Erkenntnisse aus Studien, Forschung und Projekten ##
+
+
+<img src="images/erkenntnisse.jpg" alt="erkenntnisse" style=""/>
+
+<div class="next">Was sind denn Usability Heuristiken?</div>
+
+---
+
+## Die 10 Heuristiken für das Interface Design ##
+Diese Punkte sollte nach <a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a> jedes technische System erfüllen:
+
+- Sichtbarkeit des Systemstatus - was macht das Gerät?
+- Übereinstimmung von System und Realität des Nutzers
+- Kontrolle durch den Nutzer
+- Konsistenz durch den Nutzer
+- Fehlervermeidung
+- Selbsterklärung vor Erinnerung
+- Flexibilität und Effizienz
+- Ästhetisches minimalistisches Design
+- Hilfe beim Erkennen, Diagnostizieren und Beheben von Fehlern
+- Hilfe und Dokumentation
+
+
+<div class="next">Was gilt für Anwendungen?</div>
+
+---
+
+## Menschliche Wahrnehmung ##
+gilt als Grundlagen jeder guten Gestaltung.
+
+### Kurzzeitgedächtnis nicht überfordern ###
+- Millersches Gesetzt - 7 +/- 2
+  - Beispiel: Menüpunkte
+- Hycksches Gesetz
+  - Je mehr Auswahl, desto länger dauert eine Entscheidung
+  - Fazit: Überfordert
+  
+---
+ 
+## Menschliche Wahrnehmung ##
+gilt als Grundlagen jeder guten Gestaltung.
+
+### Gestaltgesetze ###
+- Nähe
+- Ähnlichkeit (siegt über Nähe)
+- Symmetrie (siegt über Nähe)
+- Geschlossenheit
+- Figur und Grund
+
+---
+
+## Menschliche Wahrnehmung ##
+gilt als Grundlagen jeder guten Gestaltung.
+
+### weitere Erkentnisse aus der Forschung ###
+- Banner-Blindheit
+- Fitt's Gesetz
+- Gutenberg-Diagramm und Z-Muster
+- **F-Muster**
+- **Wir sind gerägt Gesichter zu erkennen**
+
+---
+
+## Das mobile Zeitalter und die Auswirkung auf interaktive Konzepte ##
+
+Internetnutzung:<br>
+``
+Okt 2016: Desktop 48,7% <> Mobile 51,3%
+<br>
+(Quelle: StatCounter Global Sats)
+`` 
