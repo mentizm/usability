@@ -1,5 +1,4 @@
-/* line 1, ../../scss/PITCHME.scss */
-body {
-  background: red;
-  color: green;
+/* line 4, ../../scss/PITCHME.scss */
+.reveal {
+  font-size: 30px;
 }
