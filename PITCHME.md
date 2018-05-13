@@ -174,29 +174,29 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 <tr>
 <td>Nutzungskontext verstehen und beschreiben</td>
 <td>
-- Fokusgruppen
+- Fokusgruppen<br>
 - Personas
 </td>
 </tr>
 <tr>
 <td>Nutzungsanforderungen</td>
 <td>
-- Card Sorting
-- Scribbles
+- Card Sorting<br>
+- Scribbles<br>
 - Wireframes
 </td>
 </tr>
 <tr>
 <td>Gestaltungslösungen entwickeln, die die Nutzungsanforderungen rfüllen (Design, Umsetzung)</td>
 <td>
-- Papierprototypen
+- Papierprototypen<br>
 - Mockups und Prototypen
 </td>
 </tr>
 <tr>
 <td>Gestaltungslösung aus Nutzerperspektive evaluieren (Testing)</td>
 <td>
-- Usability-Tests
+- Usability-Tests<br>
 - A/B Tests
 </td>
 </tr>
