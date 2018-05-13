@@ -14,7 +14,7 @@ font-size: 70%;
 
 <img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style="max-width: 1000px;"/>
 
-<div class="next">weiter: Definitionen durch ISO-Normen</div>
+<div class="next">Was genau ist denn UX und Usability</div>
 
 ---
 
