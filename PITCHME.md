@@ -23,14 +23,11 @@ font-size: 70%;
 - **User Experience**
   - **Nutzungserlebnis** oder **Nutzungserfahrung**
   - ISO 9241-210: UX umfasst demnach &raquo;*alle Aspekte der **Erfahrungen** eines Nutzer **bei der Interaktion mit einem Produkt**, **Dienst**, einer **Umgebung** oder **Einrichtung***&laquo;
-<br>
-<br>
-<br>
+----
 - **Usability**
     - **Gebrauchstauglichkeit** oder **(Be-)Nutzerfreundlichkeit**
     - ISO 9241-11: Usability bezeichnet &raquo;*das Ausmaß, in dem ein Produkt, System oder Dienst durch bestimmte Benutzer in einem **bestimmten Anwendungskontext** genutzt werden kann, um **bestimmte Ziele** effektiv, effizient und zufriedenstellend zu erreichen.*&laquo;
-
-
+----
 <div class="next">Woher kommen die ISO-Normen</div>
     
 ---
