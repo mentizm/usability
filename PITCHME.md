@@ -208,3 +208,15 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 Berücksichtgen wir das alles, dann sollte agil an dem Produkt entwickelt werden.
 
 <img src="images/agil.jpg" alt="agil" style=""/>
+
+
+---
+
+## Quelle ##
+
+Das kann man alles in diesem Buch nachlesen.
+
+
+<img src="images/buch.jpg" alt="buch" style=""/>
+
+<a href="https://www.benutzerfreun.de/praxisbuch-usability-und-ux/">Link zum Buch</a>
