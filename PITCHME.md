@@ -201,3 +201,10 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 </td>
 </tr>
 </table>
+
+---
+
+## Der Umsetzungsprozess ##
+Berücksichtgen wir das alles, dann sollte agil an dem Produkt entwickelt werden.
+
+<img src="images/agil.jpg" alt="agil" style=""/>
