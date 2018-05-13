@@ -13,19 +13,17 @@ font-size: 70%;
 
 Usability ist ein Teilgebiet der UX.
 
-<div class="full ux">UX</div>
-
+<div class="full ux">
+<p>UX</p>
 <div class="flex-full">
 <div>vor der Nutzung</div>
-<div>Nutzung<div class="">Usability</div></div>
+<div>
+Nutzung
+<br>
+<div class="usability">Usability</div>
+</div>
 <div>nach der Nutzung</div>
 </div>
-
-
-<div class="flex-full">
-<div></div>
-<div class="usability">Usability</div>
-<div></div>
 </div>
 
 ---
