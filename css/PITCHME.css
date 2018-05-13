@@ -1,24 +1,30 @@
 /* line 8, ../../scss/PITCHME.scss */
+img {
+  max-width: 1000px;
+  width: 90%;
+}
+
+/* line 13, ../../scss/PITCHME.scss */
 .ux {
   background: #225454;
 }
 
-/* line 12, ../../scss/PITCHME.scss */
+/* line 17, ../../scss/PITCHME.scss */
 .usability {
   background: #4f8080;
 }
 
-/* line 16, ../../scss/PITCHME.scss */
+/* line 21, ../../scss/PITCHME.scss */
 .reveal {
   font-size: 30px;
 }
 
-/* line 20, ../../scss/PITCHME.scss */
+/* line 25, ../../scss/PITCHME.scss */
 .full {
   width: 100%;
 }
 
-/* line 27, ../../scss/PITCHME.scss */
+/* line 32, ../../scss/PITCHME.scss */
 .flex-full {
   display: flex;
   justify-content: space-around;

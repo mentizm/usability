@@ -11,9 +11,8 @@ font-size: 70%;
 
 ---
 
-### Warum Usability & UX? ###
-
-Usability ist ein Teilgebiet der UX.
+## Usability ## 
+### Ein Teilgebiet der UX ###
 
 
 <img src="images/ux-usability-overview.jpg" alt="ux-usability-overview" style="max-width: 1000px;"/>
