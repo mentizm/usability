@@ -168,13 +168,11 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 
 <table>
 <tr>
-<td>Phase</td>
-<td>Schritte/Aktionen</td>
-<td>Ausgewählte Methoden</td>
+<th>Phase</th>
+<th>Ausgewählte Methoden</th>
 </tr>
 <tr>
 <td>Nutzungskontext verstehen und beschreiben</td>
-<td></td>
 <td>
 - Fokusgruppen
 - Personas
@@ -182,7 +180,6 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 </tr>
 <tr>
 <td>Nutzungsanforderungen</td>
-<td></td>
 <td>
 - Card Sorting
 - Scribbles
@@ -191,7 +188,6 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 </tr>
 <tr>
 <td>Gestaltungslösungen entwickeln, die die Nutzungsanforderungen rfüllen (Design, Umsetzung)</td>
-<td></td>
 <td>
 - Papierprototypen
 - Mockups und Prototypen
@@ -199,7 +195,6 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 </tr>
 <tr>
 <td>Gestaltungslösung aus Nutzerperspektive evaluieren (Testing)</td>
-<td></td>
 <td>
 - Usability-Tests
 - A/B Tests
