@@ -125,7 +125,7 @@ gilt als Grundlagen jeder guten Gestaltung.
 - Fitt's Gesetz
 - Gutenberg-Diagramm und Z-Muster
 - **F-Muster**
-- **Wir sind gerägt Gesichter zu erkennen**
+- **Wir sind geprägt Gesichter zu erkennen**
 
 ---
 
@@ -169,7 +169,7 @@ Den Nutzer in die Produktentwicklung einbinden
 
 > Es geht nicht darum, was der Nutzer will, sondern viel mehr, wie es ihm hilft seine Probleme zu lösen
 
-Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das Produkt überhaupt entwickeln.
+Dafür brauchen wir sein Feedback und müssen zunächst verstehen für wen wir das Produkt überhaupt entwickeln.
 
 ---
 
@@ -196,7 +196,7 @@ Dafür brauchen wir sein Feedback udn müssen erstmal verstehen für wen wir das
 </td>
 </tr>
 <tr>
-<td>Gestaltungslösungen entwickeln, die die Nutzungsanforderungen rfüllen (Design, Umsetzung)</td>
+<td>Gestaltungslösungen entwickeln, die die Nutzungsanforderungen erfüllen (Design, Umsetzung)</td>
 <td>
 - Papierprototypen<br>
 - Mockups und Prototypen
