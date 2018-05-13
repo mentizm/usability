@@ -1,7 +1,7 @@
 /* line 8, ../../scss/PITCHME.scss */
 img {
-  max-width: 1000px;
-  width: 90%;
+  max-width: 90%;
+  max-height: 320px;
 }
 
 /* line 13, ../../scss/PITCHME.scss */
