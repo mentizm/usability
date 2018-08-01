@@ -68,7 +68,7 @@ Es gibt Mittel wie:
 
 ---
 
-## Die 10 Heuristiken für das Interface Design ##
+## Die <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">10 Heuristiken</a> für das Interface Design ##
 Diese Punkte sollte nach <a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a> jedes technische System erfüllen:
 
 - Sichtbarkeit des Systemstatus - was macht das Gerät?
